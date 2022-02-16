@@ -1,29 +1,19 @@
 # AcuCafe Full Stack Developer Assessment
 
-AcuCafe has an ordering system which is poorly designed and sometimes fails to deliver the 
-right orders. For example, some of the clients complain that their ice tea had milk in it. The
-system has also turned out to be a maintenance nightmare as it is difficult to add new 
-drinks. 
+AcuCafe has an ordering system which is poorly designed and sometime fails to deliver the right orders. For example, some of the clients complain that their ice tea had milk in it. The system has also turned out to be a maintenance nightmare as they add new drinks every month and this is difficult to do. They have hired you to solve these problems. 
 
-AcuCafe has selected you to update their ordering system to be able to: 
-- Stop the preparation of an ice tea with milk and inform the barista
-- Fix the order summary so it displays the drink and cost
+The client has asked for the following (work down the list) 
+- Stop the preparation of an ice tea with milk and inform the barista 
+- Errors should be handled both front and back end  
+- Fix the order summary so it displays the drink and cost 
+- It should look like the designs in Figma: here 
+- See the cost with toppings before placing an order 
+- Able to order multiple drinks at once 
+- See previous orders
 
-As well as these functional requirements, they would like you to spend some time on the 
-following:
+During you work you should consider, scalability, validation, maintainability, the user experience and separation of concerns between front-end and back-end. You may not be able to make all the changes you want, so you can talk us through any changes you would make with more time.  
 
-Improve and refactor the codebase, considering the following
-- Scalability as AcuCafe expands their drink and topping ranges
-- Validation
-- General maintainability of the codebase
-
-Improve the UI
-- The current UI doesn’t quite match the designs in Figma: [here](https://www.figma.com/file/9N9zM1e6XkBhxGtfAPCB2t/Full-Stack-AcuCafe?node-id=0%3A1)
-- You may also spot other changes you could make to improve the user 
-experience
-
-You are unlikely to be able to make all the changes in the time given, so we’d like you to 
-prioritise the aspects you think are the most important.
+You are allowed to make a start on this project before the interview, but it is not required. If you do, we recommend no more than 2 hours as there will be a pair programming exercise of 45-60 minutes. 
 
 ## System Requirements
 
@@ -34,7 +24,7 @@ following on your computer to run this:
 - .NET Core 3.1 SDK
 - Node 14
 
-Running the project from Visual Studio will also start the angular and open up a browser 
+Running the project from Visual Studio will also start the angular app and open up a browser window.
 window.
 
 ## Inspecting Designs

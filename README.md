@@ -6,7 +6,7 @@ The client has asked for the following (work down the list)
 - Stop the preparation of an ice tea with milk and inform the barista 
 - Errors should be handled both front and back end  
 - Fix the order summary so it displays the drink and cost 
-- It should look like the designs in Figma: here 
+- It should look like the designs in Figma: [here](https://www.figma.com/file/9N9zM1e6XkBhxGtfAPCB2t/Full-Stack-AcuCafe?node-id=0%3A1)
 - See the cost with toppings before placing an order 
 - Able to order multiple drinks at once 
 - See previous orders

@@ -20,8 +20,8 @@ You are allowed to make a start on this project before the interview, but it is 
 The project consists of an ASP.NET Core API, and an Angular 10 front-end. You’ll need the 
 following on your computer to run this:
 
-- Visual Studio 2019 or Visual Studio Code
-- .NET Core 3.1 SDK
+- Visual Studio 2022 or Visual Studio Code
+- .NET 6 SDK
 - Node 14
 
 Running the project from Visual Studio will also start the angular app and open up a browser window.
